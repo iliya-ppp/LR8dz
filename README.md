@@ -21,6 +21,7 @@
 
 ## 2. Блок-схема
 <img width="399" height="614" alt="image" src="https://github.com/user-attachments/assets/48b0f9a7-0679-425e-a137-660739467867" />
+
 https://app.diagrams.net/#Llr8.drawio#%7B%22pageId%22%3A%22dN-ULCq-FuuFo31CVBfL%22%7D
 
 ## 3. Реализация программы
