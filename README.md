@@ -54,8 +54,11 @@ void main() {
 }
 ```
 ##4. Результаты работы программы
+
 <img width="423" height="158" alt="image" src="https://github.com/user-attachments/assets/321b9e6e-5d37-49ef-911a-2cc0b303a3cd" />
+
 ##5. Выполнил
+
 Мамонов Илья бИЦТ-261
 
 
