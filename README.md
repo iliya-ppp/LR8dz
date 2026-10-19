@@ -20,7 +20,8 @@
 7. Конец.
 
 ## 2. Блок-схема
-![Блок-схема](Диаграмма18.drawio.png)
+<img width="399" height="614" alt="image" src="https://github.com/user-attachments/assets/48b0f9a7-0679-425e-a137-660739467867" />
+https://app.diagrams.net/#Llr8.drawio#%7B%22pageId%22%3A%22dN-ULCq-FuuFo31CVBfL%22%7D
 
 ## 3. Реализация программы
 ```c
@@ -50,6 +51,12 @@ void main() {
 
     printf("\nСумма: %.4lf\n", sum);
 }
+```
+##4. Результаты работы программы
+<img width="423" height="158" alt="image" src="https://github.com/user-attachments/assets/321b9e6e-5d37-49ef-911a-2cc0b303a3cd" />
+##5. Выполнил
+Мамонов Илья бИЦТ-261
+
 
 
 
